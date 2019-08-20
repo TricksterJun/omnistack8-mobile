@@ -1,1 +1,1 @@
-Projeto **React Native** desenvolvido na Semana Omnistack 8 da # Rocketseat
+## Projeto _React Native_ desenvolvido na Semana Omnistack 8 da _Rocketseat_
